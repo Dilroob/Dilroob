@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dilroob M
 
-### 📊 Data Analyst | Business Intelligence Enthusiast | Computer Science Graduate
+### 📊 Data Analyst | Business Intelligence Enthusiast | Computer Science Background
 
 Transforming raw data into meaningful insights through analytics, visualization, and reporting.
 
@@ -8,7 +8,7 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 ## 🚀 About Me
 
-🎓 B.Sc Computer Science Graduate
+🎓 B.Sc Computer Science course completed
 
 📈 Data Analyst with practical experience in:
 - Data Cleaning & Transformation

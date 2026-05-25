@@ -1,184 +1,137 @@
-# 👋 Hello, I'm Dilroob M
+# Hi, I'm Dilroob 👋
 
-### 📊 Data Analyst | Business Intelligence Enthusiast | Computer Science Background
+## 📊 Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
-Transforming raw data into meaningful insights through analytics, visualization, and reporting.
+Computer Science graduate and aspiring Data Analyst with hands-on experience in data analysis, dashboard development, reporting automation, and business intelligence. Skilled in transforming raw data into actionable insights using Python, SQL, Excel, Power BI, and Tableau.
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Sc Computer Science course completed
-
-📈 Data Analyst with practical experience in:
-- Data Cleaning & Transformation
-- Dashboard Development
-- KPI Reporting
-- Business Analytics
-- Data Visualization
-
-💡 Passionate about solving business problems using data and creating interactive dashboards that support decision-making.
-
-📍 Kerala, India
+- 🎓 B.Sc. Computer Science course completed
+- 📈 Data Analyst with 6 months of internship experience
+- 📊 Experienced in dashboard creation, KPI tracking, and business reporting
+- 🗄️ Strong knowledge of SQL, database management, and data modeling
+- 🐍 Passionate about Python-based data analysis and visualization
+- 📍 Malappuram, Kerala, India
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-### 📊 Analytics & BI
+### Programming & Analytics
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Data Cleaning & Transformation
+- Data Profiling
+- Statistical Analysis
+- KPI Reporting
+
+### Databases
+- MySQL
+- PostgreSQL
+- Joins
+- Window Functions
+- Stored Procedures
+
+### Data Visualization & BI
+- Power BI
+  - DAX
+  - Power Query
+  - Data Modeling
+  - KPI Dashboards
+- Tableau
+- Excel Dashboards
+
+### Tools
 - Microsoft Excel
 - Power BI
 - Tableau
-
-### 🗄️ Databases
-- MySQL
-- PostgreSQL
-
-### 🐍 Programming
-- Python
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-
-### 📈 Data Analysis
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- KPI Reporting
-- Statistical Analysis
-- Business Intelligence
+- Jupyter Notebook
+- Google Sheets
 
 ---
 
-## 📊 Excel Skills
+## 💼 Experience
 
-✔ Pivot Tables
+### Data Analytics Intern
+**Haris & Co Tech School**  
+*December 2025 – June 2026*
 
-✔ Pivot Charts
-
-✔ VLOOKUP / XLOOKUP
-
-✔ INDEX-MATCH
-
-✔ Conditional Formatting
-
-✔ Dashboard Creation
-
-✔ KPI Tracking
-
-✔ Data Validation
-
-✔ Business Reporting
+- Developed interactive dashboards and reports using Power BI and Tableau.
+- Performed data cleaning, transformation, and analysis using Python, SQL, and Excel.
+- Built KPI reports and visualizations for business decision-making.
+- Wrote SQL queries for data extraction, filtering, and analysis.
+- Utilized Pandas, NumPy, and Matplotlib for analytical workflows.
+- Identified trends and business insights from real-world datasets.
+- Improved reporting accuracy through structured data handling practices.
 
 ---
 
 ## 📂 Featured Project
 
-# 📈 Sales Performance Dashboard
+### Sales Performance Dashboard (Power BI)
 
-### Overview
+An interactive business intelligence dashboard designed to monitor and analyze sales performance.
 
-Developed an interactive dashboard to monitor and analyze business performance metrics across different periods and departments.
+#### Key Features:
+- Revenue Tracking
+- ARPU Analysis
+- Growth Percentage Monitoring
+- Target vs Actual Performance
+- MTD, YTD & YoY Analysis
+- Interactive Slicers and Drill-Through Reports
+- KPI Cards and Executive-Level Visualizations
 
-### Key Metrics
-
-- Revenue
-- ARPU
-- Growth %
-- Target Achievement
-- MTD Analysis
-- YTD Analysis
-- YoY Comparison
-
-### Features
-
-✅ Dynamic KPI Cards
-
-✅ Interactive Slicers
-
-✅ Drill-Through Analysis
-
-✅ Clean Data Model
-
-✅ Executive Dashboard Design
-
-### Tools Used
-
+#### Technologies Used:
 - Power BI
-- Excel
 - DAX
+- Excel
 - Google Sheets
+- Data Modeling
 
----
-
-## 💼 Internship Experience
-
-### Data Analytics Intern
-**Haris & Co Tech School**
-
-**Dec 2025 – Jun 2026**
-
-- Built interactive dashboards using Power BI and Tableau
-- Cleaned and transformed datasets using Excel, SQL, and Python
-- Developed KPI reports for business analysis
-- Performed exploratory data analysis and reporting
-- Wrote SQL queries for extracting business insights
-- Created visualizations using Matplotlib and Power BI
+#### Business Impact:
+- Enhanced performance tracking
+- Improved decision-making through visual insights
+- Streamlined reporting and KPI monitoring
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Science in Computer Science
-
-SAFI Institute of Advanced Study
-
+**B.Sc. Computer Science**  
+SAFI Institute of Advanced Study  
 Calicut University
-
-2022 – 2025
 
 ---
 
 ## 📜 Certifications
 
-🏆 Data Analytics Course Completion
-
-🏆 B.Sc Computer Science Degree Completion
-
-🏆 Final Year Project Completion
-
-🏆 Academic Visit – NIT Surathkal
+- Data Analytics Course Completion Certificate
+- B.Sc. Computer Science Degree Completion Certificate
+- Final Year Project Completion Certificate
+- Academic Visit Certificate – NIT Surathkal
 
 ---
 
-## 🌍 Languages
+## 🌐 Connect With Me
 
-- English
-- Malayalam
-- Tamil
-- Hindi
+📧 Email: dilroobdilu250@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/dilroob-m-27315b395
 
 ---
 
-## 🤝 Soft Skills
+## ⚡ Soft Skills
 
 - Communication
-- Leadership
-- Teamwork
-- Adaptability
 - Problem Solving
+- Teamwork
+- Leadership
+- Adaptability
 - Customer Service
 - Time Management
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: dilroobdilu250@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/dilroob-m-443104281
-
----
-
-⭐ Open to Data Analyst, Business Analyst, MIS Analyst, and BI Developer opportunities.
+### 📈 "Turning data into meaningful business insights through analytics and visualization."

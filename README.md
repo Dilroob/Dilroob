@@ -1,6 +1,6 @@
 # Hi, I'm Dilroob 👋
 
-## 📊 Data Analyst | Python | SQL | Power BI | Tableau
+## 📊 Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
 Computer Science graduate and aspiring Data Analyst with hands-on experience in data analysis, dashboard development, reporting automation, and business intelligence. Skilled in transforming raw data into actionable insights using Python, SQL, Excel, Power BI, and Tableau.
 
@@ -8,7 +8,7 @@ Computer Science graduate and aspiring Data Analyst with hands-on experience in 
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. Computer Science Graduate
+- 🎓 B.Sc. Computer Science course completed
 - 📈 Data Analyst with 6 months of internship experience
 - 📊 Experienced in dashboard creation, KPI tracking, and business reporting
 - 🗄️ Strong knowledge of SQL, database management, and data modeling
@@ -118,7 +118,7 @@ Calicut University
 
 📧 Email: dilroobdilu250@gmail.com
 
-💼 LinkedIn: [Add Your LinkedIn Profile URL]
+💼 LinkedIn: www.linkedin.com/in/dilroob-m-27315b395
 
 ---
 

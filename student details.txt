@@ -1,0 +1,10 @@
+name: Naseef 
+std: 2 
+div: b 
+roll no: 9 
+age: 6 
+school: NAM kallikandy 
+blood group: O+ve 
+place: thalasshery 
+bestfriend: razin 
+girlfriend: error 404 not found

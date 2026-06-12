@@ -1,0 +1,12 @@
+dilroob,24,DA
+naseef,19,DA
+razin,13,DA
+nihal,27,DA
+dilroob,24,DA
+naseef,13,DA
+razin,36,DA
+nihal,9,DA
+dilroob m,24,da
+naseef,18,da
+razin,9,da
+nihal,36,da
